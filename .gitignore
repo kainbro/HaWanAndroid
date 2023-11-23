@@ -12,3 +12,8 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+/.hvigor/
+/.idea/
+/oh_modules/@ohos/
+/oh_modules/.ohpm/
+/entry/oh_modules/
