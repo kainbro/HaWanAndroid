@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },{
+      "name": "mainPage_backgroundColor",
+      "value": "#F1F3F5"
+    },{
+      "name": "tab_bar_select_color",
+      "value": "#73CD57"
+    },{
+      "name": "tab_bar_normal_color",
+      "value": "#999999"
+    },{
+      "name": "fontColor_text1",
+      "value": "#000000"
+    },{
+      "name": "fontColor_text2",
+      "value": "#989898"
+    },{
+      "name": "list_item_background",
+      "value": "#ffffff"
+    },{
+      "name": "page_title_background_color",
+      "value": "#ffffff"
+    },{
+      "name": "divider_color",
+      "value": "#999999"
+    }
+  ]
+}
