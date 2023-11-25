@@ -18,3 +18,5 @@ resources/.arch-internal-preview.css
 /oh_modules/.ohpm/
 /entry/oh_modules/
 local.properties
+oh-package.json5
+oh-package-lock.json5
