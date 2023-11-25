@@ -17,3 +17,4 @@ resources/.arch-internal-preview.css
 /oh_modules/@ohos/
 /oh_modules/.ohpm/
 /entry/oh_modules/
+local.properties
